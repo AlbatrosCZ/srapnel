@@ -1,0 +1,2 @@
+sem přidej token svého bota
+!! Token se bere pouze s prvního řádku, ostatní jsou ignorovány !!
