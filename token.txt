@@ -1,2 +1,3 @@
 sem přidej token svého bota
 !! Token se bere pouze s prvního řádku, ostatní jsou ignorovány !!
+!! Na první řádek přidejte pouze token pokud tam bude něco navíc bot nebude fungovat !!
