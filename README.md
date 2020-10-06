@@ -10,8 +10,6 @@ Tento bot je vytvářen primárně pro monitorování aktivity uživatel na serv
 
 ### Použitelné komandy
 #### Uživatelské kommandy
-- kommandy
-- účet
 #### Komandy pro správu serverů
 #### Herní komandy
 
